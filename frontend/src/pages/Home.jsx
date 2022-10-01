@@ -33,9 +33,9 @@ const Home = () => {
 
       <main className="flex m-2 h-[70vh]">
         <div className="LEFT m-3 flex-1 max-w-xs flex flex-col justify-between items-center">
-          <InfoBox text={"LOGO NFtTD"} />
-          <InfoBox text={"ABOUT NFtTD"} />
-          <InfoBox text={"GET NFtTD"} />
+          <InfoBox text={"LOGO NFTD"} />
+          <InfoBox text={"ABOUT NFTD"} />
+          <InfoBox text={"MINT NFTD"} />
         </div>
 
         <div className="CENTER flex flex-auto flex-col m-2 justify-between items-center">
@@ -52,7 +52,7 @@ const Home = () => {
         <div className="RIGHT m-3 flex-1 max-w-xs flex flex-col justify-between items-center">
           <InfoBox text={"CLAIM FREE LAND"} />
           <InfoBox text={"MY LANDS"} />
-          <InfoBox text={"BUY LANDS"} />
+          <InfoBox text={"VIRTUAL ESTATE"} />
         </div>
       </main>
     </>

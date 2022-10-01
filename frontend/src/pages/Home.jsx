@@ -4,6 +4,7 @@ import InfoBox from "../components/InfoBox";
 import Slides from "../components/Slides";
 
 const Home = () => {
+  document.title = "E(AR)TH"
   const [showMessage, setShowMessage] = useState(true)
 
   return (

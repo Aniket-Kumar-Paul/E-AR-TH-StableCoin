@@ -5,6 +5,8 @@ import { BsFacebook, BsTwitter, BsGithub } from 'react-icons/bs';
 import { SiGmail } from "react-icons/si";
 
 const Connect = () => {
+    document.title = "E(AR)TH - Connect Wallet"
+
     return (
         <>
             <Navbar />
